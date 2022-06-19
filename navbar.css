@@ -1,0 +1,12 @@
+.navbar{
+    position: fixed;
+}
+body {
+    background: cornflowerblue;
+    }
+    p
+    {
+        text-align: center;
+        font-weight: bolder;
+        color: black;
+    }
